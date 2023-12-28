@@ -195,7 +195,7 @@ border-top: none;
   
 .page-navigation:hover,
 .page-navigation:focus {
-  color: var(--changecolor);
+  color: var(--change-color);
   background-color: var(--white-color);
   }
 
